@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">justnew</string>
+    <string name="signup">Sign Up</string>
+ <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">886200534895211</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+
+</resources>
